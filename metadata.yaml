@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37800'
     url: http://www.gutenberg.org/2009/agents/37800
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35645#The-Cavaliers-of-Virginia-vol.-1-of-2or-The-Recluse-of-Jamestown--An-historical-romance-of-th_
 gutenberg_issued: '2011-03-21'
 gutenberg_type: Text
 identifiers:
